@@ -57,12 +57,20 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\estilos.css" />
+    <Content Include="css\style.css" />
+    <Content Include="index.html" />
+    <Content Include="index1.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\fonts\icomoon.eot" />
+    <Content Include="css\fonts\icomoon.svg" />
+    <Content Include="css\fonts\icomoon.ttf" />
+    <Content Include="css\fonts\icomoon.woff" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -83,7 +91,7 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerPort>49346</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>http://localhost:50999/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>

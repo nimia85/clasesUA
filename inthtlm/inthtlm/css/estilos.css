@@ -1,0 +1,40 @@
+﻿@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+background: #f00;
+color: black;
+font-family:"Open Sans";
+font-size:16px;
+}
+#parrafo1
+{font-family :Andalus;
+}
+.parrafoclase
+{color:blue;
+}
+ul li
+{
+	color:#c424d7;
+	font-size:2em;
+	list-style: none;
+	display:inline-block;
+	
+}
+p a #linkgoogle
+{
+	display:none
+	border: 2px solid #43ed21;
+}
+div
+{
+	border: 0;
+	border-bottom: 1em solid green;
+	border-left: 1em solid blue;
+	border-right: 1em solid yellow;
+	border-top:1em solid black;
+	margin: 10px 15px 10px 15px;
+	margin-bottom: 1em;
+	margin-left : 2em;
+	padding: 10px 15px;
+		
+}

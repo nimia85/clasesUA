@@ -1,0 +1,5 @@
+C:\Users\Nimia Garcia\Documents\GitHub\clasesUA\inthtlm\inthtlm\bin\inthtlm.dll
+C:\Users\Nimia Garcia\Documents\GitHub\clasesUA\inthtlm\inthtlm\bin\inthtlm.pdb
+C:\Users\Nimia Garcia\Documents\GitHub\clasesUA\inthtlm\inthtlm\obj\Debug\inthtlm.csprojResolveAssemblyReference.cache
+C:\Users\Nimia Garcia\Documents\GitHub\clasesUA\inthtlm\inthtlm\obj\Debug\inthtlm.dll
+C:\Users\Nimia Garcia\Documents\GitHub\clasesUA\inthtlm\inthtlm\obj\Debug\inthtlm.pdb
